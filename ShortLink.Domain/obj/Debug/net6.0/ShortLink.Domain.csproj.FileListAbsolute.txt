@@ -1,0 +1,12 @@
+C:\ShortLink\ShortLink.Domain\bin\Debug\net6.0\ShortLink.Domain.deps.json
+C:\ShortLink\ShortLink.Domain\bin\Debug\net6.0\ShortLink.Domain.dll
+C:\ShortLink\ShortLink.Domain\bin\Debug\net6.0\ShortLink.Domain.pdb
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ShortLink.Domain.csproj.AssemblyReference.cache
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ShortLink.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ShortLink.Domain.AssemblyInfoInputs.cache
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ShortLink.Domain.AssemblyInfo.cs
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ShortLink.Domain.csproj.CoreCompileInputs.cache
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ShortLink.Domain.dll
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\refint\ShortLink.Domain.dll
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ShortLink.Domain.pdb
+C:\ShortLink\ShortLink.Domain\obj\Debug\net6.0\ref\ShortLink.Domain.dll

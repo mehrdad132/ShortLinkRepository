@@ -1,0 +1,14 @@
+C:\ShortLink\ShortLink.Infra.Data\bin\Debug\net6.0\ShortLink.Infra.Data.deps.json
+C:\ShortLink\ShortLink.Infra.Data\bin\Debug\net6.0\ShortLink.Infra.Data.runtimeconfig.json
+C:\ShortLink\ShortLink.Infra.Data\bin\Debug\net6.0\ShortLink.Infra.Data.dll
+C:\ShortLink\ShortLink.Infra.Data\bin\Debug\net6.0\ShortLink.Infra.Data.pdb
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.csproj.AssemblyReference.cache
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.AssemblyInfoInputs.cache
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.AssemblyInfo.cs
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.csproj.CoreCompileInputs.cache
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.dll
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\refint\ShortLink.Infra.Data.dll
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.pdb
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ShortLink.Infra.Data.genruntimeconfig.cache
+C:\ShortLink\ShortLink.Infra.Data\obj\Debug\net6.0\ref\ShortLink.Infra.Data.dll

@@ -1,0 +1,15 @@
+C:\ShortLink\ShortLink.Application\bin\Debug\net6.0\ShortLink.Application.deps.json
+C:\ShortLink\ShortLink.Application\bin\Debug\net6.0\ShortLink.Application.dll
+C:\ShortLink\ShortLink.Application\bin\Debug\net6.0\ShortLink.Application.pdb
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.csproj.AssemblyReference.cache
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.AssemblyInfoInputs.cache
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.AssemblyInfo.cs
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.csproj.CoreCompileInputs.cache
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.dll
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\refint\ShortLink.Application.dll
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.pdb
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ref\ShortLink.Application.dll
+C:\ShortLink\ShortLink.Application\bin\Debug\net6.0\ShortLink.Infra.Data.dll
+C:\ShortLink\ShortLink.Application\bin\Debug\net6.0\ShortLink.Infra.Data.pdb
+C:\ShortLink\ShortLink.Application\obj\Debug\net6.0\ShortLink.Application.csproj.CopyComplete
